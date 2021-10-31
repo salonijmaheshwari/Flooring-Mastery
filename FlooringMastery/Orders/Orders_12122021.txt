@@ -1,0 +1,3 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+3,Pankaj,CA,25.00,Wood,123,3.50,4.15,633.45,584.25,304.43,1522.13
+4,saloni,WA,417.58,Wood,456,2348.40,2166.00,2348.40,2166.00,417.58,4931.98

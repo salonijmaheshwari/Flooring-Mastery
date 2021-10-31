@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Kalp Rathi,CA,25.00,Carpet,290,3.50,4.15,652.50,609.00,315.38,1576.88

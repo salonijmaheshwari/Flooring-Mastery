@@ -1,0 +1,7 @@
+com\mthree\flooringmastery1\service\FlooringMasteryOrderDaoStubImpl.class
+com\mthree\flooringmastery1\dao\FlooringMasteryOrderDaoFileImplTest.class
+com\mthree\flooringmastery1\dao\FlooringMasteryTaxDaoFileImplTest.class
+com\mthree\flooringmastery1\dao\FlooringMasteryProductDaoFileImplTest.class
+com\mthree\flooringmastery1\service\FlooringMasteryServiceLayerImplTest.class
+com\mthree\flooringmastery1\service\FlooringMasteryTaxDaoStubImpl.class
+com\mthree\flooringmastery1\service\FlooringMasteryProductDaoStubImpl.class
